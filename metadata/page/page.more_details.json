@@ -1,0 +1,33 @@
+{
+  "_id": "page.more_details",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.more_details--radios.auto_name__4",
+      "_type": "radios",
+      "hint": "Select the most appropriate option",
+      "items": [
+        {
+          "_id": "page.more_details--radios.auto_name__4--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Martin works 7 hours a day without stopping, he's like The Terminator",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.more_details--radios.auto_name__4--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Martin organises the team meet every fortnight",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Give examples of Martin's hard work",
+      "name": "auto_name__4"
+    }
+  ],
+  "sectionHeading": "Give more details of Martin's hard work",
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "defined"
+  },
+  "url": "more_details"
+}

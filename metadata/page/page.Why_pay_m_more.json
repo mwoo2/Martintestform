@@ -1,0 +1,33 @@
+{
+  "_id": "page.Why_pay_m_more",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.Why_pay_m_more--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Tick as many as apply",
+      "items": [
+        {
+          "_id": "page.Why_pay_m_more--checkboxes--checkbox.auto_name__1",
+          "_type": "checkbox",
+          "label": "Martin doesn't work very hard",
+          "name": "auto_name__1"
+        },
+        {
+          "_id": "page.Why_pay_m_more--checkboxes--checkbox.auto_name__2",
+          "_type": "checkbox",
+          "label": "Martin looks after his team",
+          "name": "auto_name__2"
+        },
+        {
+          "_id": "page.Why_pay_m_more--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "label": "Martin is an idiot",
+          "name": "auto_name__3"
+        }
+      ],
+      "legend": "Why does Martin deserve a pay rise?"
+    }
+  ],
+  "url": "Why_pay_m_more"
+}
